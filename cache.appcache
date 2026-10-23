@@ -1,5 +1,4 @@
 CACHE MANIFEST
-# build 0aca91b343b8b942
 
 index.html
 run_lapse.html
@@ -21,9 +20,7 @@ patches/1300.bin
 core.js?v=10
 
 NETWORK:
-*
-
 FALLBACK:
-index.html index.html
-run_lapse.html run_lapse.html
-run_poops.html run_poops.html
+index.html
+run_lapse.html
+run_poops.html
